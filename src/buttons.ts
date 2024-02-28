@@ -10,7 +10,7 @@ export const buttonList: ButtonList = [
         {name: '7', size: 'normal', variant: 'blue'},
         {name: '8', size: 'normal', variant: 'blue'},
         {name: '9', size: 'normal', variant: 'blue'},
-        {name: 'x', size: 'normal', variant: 'yellow'},
+        {name: '*', size: 'normal', variant: 'yellow'},
     ],
     [
         {name: '4', size: 'normal', variant: 'blue'},
